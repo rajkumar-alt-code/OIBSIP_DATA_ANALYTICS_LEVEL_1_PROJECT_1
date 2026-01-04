@@ -13,28 +13,33 @@
 
 ---
 
-## 🔍 Key Insights
-- Young females (18-25) prefer Electronics (45% higher spending)
-- Q4 shows 32% sales uplift; weekends +28% transactions  
-- **Top Category**: Electronics (₹2.8M total revenue)
-- Avg Order Value: ₹1,215
-
-| Metric | Value |
-|--------|-------|
-| Total Revenue | ₹12.4M |
-| Transactions | 10,245 |
-| Top Category | Electronics |
-
-![image alt](https://github.com/rajkumar-alt-code/OIBSIP_DATA_ANALYTICS_LEVEL_1_PROJECT_1/blob/b4ce3e916dec76063cfd7668e6bbbca370a727fb/dashboard_1.png)
-![image alt](https://github.com/rajkumar-alt-code/OIBSIP_DATA_ANALYTICS_LEVEL_1_PROJECT_1/blob/0046b63ee9d7019ca99a597a0761b1bbcf768723/dashboard_2.png)
+## 🛠 Tools & Technologies Used
+- Power BI
+- Excel
 
 ---
+
+## 📈 Key Analysis Performed
+- Dataset inspection and summary statistics
+- Date conversion and feature engineering (month, year)
+- Sales analysis by product category
+- Gender-wise sales analysis
+- Monthly sales trend analysis
+
+  ---
 
 ## 🚀 How to Run
 1. Download `Retail_Sales_EDA.pbix`
 2. Open in **Power BI Desktop**
 3. Refresh data from `data/retail_sales.csv`
 4. Interact with slicers & visuals
+
+---
+
+![image alt](https://github.com/rajkumar-alt-code/OIBSIP_DATA_ANALYTICS_LEVEL_1_PROJECT_1/blob/b4ce3e916dec76063cfd7668e6bbbca370a727fb/dashboard_1.png)
+![image alt](https://github.com/rajkumar-alt-code/OIBSIP_DATA_ANALYTICS_LEVEL_1_PROJECT_1/blob/0046b63ee9d7019ca99a597a0761b1bbcf768723/dashboard_2.png)
+
+
 
 ---
 
