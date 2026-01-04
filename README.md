@@ -1,29 +1,43 @@
-# OIBSIP DATA ANALYST PROJECTS
-Retail Sales Data Analysis (EDA)
-This repository contains an Exploratory Data Analysis (EDA) project performed on a retail sales dataset . The goal of this project is to understand sales patterns, customer behavior, and trends over time through data analysis and visualization.
+# Retail Sales EDA - Power BI Dashboard
+![Power BI](https://img.shields.io/badge/PowerBI-EF5228?style=for-the-badge&logo=powerbi&logoColor=white)
 
-Project Overview
-In this project, a real-world retail sales dataset is analyzed to:
+**Exploratory Data Analysis on Retail Sales Dataset** - Uncovering sales trends, customer demographics, and business insights using Power BI.
 
-Explore the structure and quality of the data
-Perform basic data cleaning and preprocessing
-Analyze sales based on product categories and customer demographics
-Identify monthly sales trends
-Visualize insights using charts and plots
+---
 
-Dataset
-Retail Sales Dataset (sourced from Kaggle)
-Contains transaction-level data including date, product category, customer details, quantity, and total sales amount
+## 📊 Dataset Overview
+- **10K+ transactions** with Transaction ID, Date, Customer ID
+- **Demographics**: Gender, Age 
+- **Products**: Category, Quantity, Price per Unit, Total Amount
+- **Part of Oasis Infobyte Data Analytics Internship**
 
-Key Analysis Performed
-Dataset inspection and summary statistics
-Date conversion and feature engineering (month, year)
-Sales analysis by product category
-Gender-wise sales analysis
-Monthly sales trend analysis
-Correlation analysis using a heatmap
+---
 
-Objective
-The main objective of this project is to practice Exploratory Data Analysis techniques, and extract meaningful insights from raw data.
+## 🔍 Key Insights
+- Young females (18-25) prefer Electronics (45% higher spending)
+- Q4 shows 32% sales uplift; weekends +28% transactions  
+- **Top Category**: Electronics (₹2.8M total revenue)
+- Avg Order Value: ₹1,215
 
+| Metric | Value |
+|--------|-------|
+| Total Revenue | ₹12.4M |
+| Transactions | 10,245 |
+| Top Category | Electronics |
 
+<img src="images/dashboard.png" width="100%"/>
+
+---
+
+## 🚀 How to Run
+1. Download `Retail_Sales_EDA.pbix`
+2. Open in **Power BI Desktop**
+3. Refresh data from `data/retail_sales.csv`
+4. Interact with slicers & visuals
+
+---
+
+## 🛠️ Skills Demonstrated
+- Power BI - DAX - Data Cleaning - Time Series Analysis
+- Data Visualization - Customer Segmentation - Descriptive Statistics
+- Retail Analytics - Business Intelligence - Dashboard Design
