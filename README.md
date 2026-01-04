@@ -1,5 +1,5 @@
 # Retail Sales EDA - Power BI Dashboard
-![Power BI](https://img.shields.io/badge/PowerBI-EF5228?style=for-the-badge&logo=powerbi&logoColor=white)
+![Power BI](https://github.com/rajkumar-alt-code/OIBSIP_DATA_ANALYTICS_LEVEL_1_PROJECT_1/blob/5a1286b6bbe4975d8a0fbc8aa33c31e42eb379d0/sales_dashboard.pbit)
 
 **Exploratory Data Analysis on Retail Sales Dataset** - Uncovering sales trends, customer demographics, and business insights using Power BI.
 
