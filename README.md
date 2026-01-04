@@ -25,7 +25,8 @@
 | Transactions | 10,245 |
 | Top Category | Electronics |
 
-<img src="images/dashboard.png" width="100%"/>
+![image alt](https://github.com/rajkumar-alt-code/OIBSIP_DATA_ANALYTICS_LEVEL_1_PROJECT_1/blob/387d29648fee2076642699b97f0787ed16e03217/Screenshot%20(210).png)
+
 
 ---
 
